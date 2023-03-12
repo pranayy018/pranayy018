@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
  <!-- Typing Widget -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek;Content+Writer&font=sans-serif&center=true&size=12">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
  
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzpranayy&theme=dark&hide_border=true" width=700px>
 
