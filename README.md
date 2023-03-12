@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <p align="center">While I try to stay consistent, here is what I've put together so far.</p>
 <br>
 
-/*
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzpranayy&theme=monokai">
 </p>
@@ -89,18 +89,18 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzpranayy&theme=monokai">
 </p>
 
-*/
+
 
 <!-- Connect with me -->
 <h1 align="center">Let's Connect</h1>
 <p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pranay-nimsatkar-a7b212231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“pranay-nimsatkar” height="28" width="40" /></a>
-<a href="https://discord.gg/Pranayyy#7057" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=“pranay-nimsatkar” height="35" width="45" /></a>
-<a href="https://instagram.com/___pranayy___?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=“___pranayy___” height="28" width="38" /></a>
-
+<a href="https://www.linkedin.com/in/pranay-nimsatkar-a7b212231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
+<a href="https://discord.gg/Pranayyy#7057" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
+<a href="https://instagram.com/___pranayy___?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
+<a href="mailto:pranaynimsatkar16@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
+<a href="https://t.me/itzpranayyy" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
 </p>
 
   
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/itzpranayy/itzpranayy/blob/output/github-contribution-grid-snake.svg">
+<img alt="Snake GIF" src="https://github.com/itzpranayy/itzpranayy/blob/main/github-contribution-grid-snake.svg">
 </p>
 <br>
 
