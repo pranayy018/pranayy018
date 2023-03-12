@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, i am happy to help:)
-- 📫 How to reach me: @pranaynimsatkar16
+- 📫 How to reach me: pranaynimsatkar16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
