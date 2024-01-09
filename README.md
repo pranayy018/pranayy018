@@ -1,25 +1,25 @@
 
 <!-- -------------------------------BG Template---------------------------- -->
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-<img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/hlo.png">
-<!-- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" width="1100" height="500"/> -->
-  </p>
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 
-<h1 align="center">Hi there, I'm Pranay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-
-<br>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&&lines=Hey!+It's+Pranay;I'm+a+Full+Stack+Developer...)](https://git.io/typing-svg)
+  
 
 <!-- **itzpranayy/itzpranayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
  -->
- <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align = "right"  margin-top="4" width="400" height="280"/>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br>
- 
+
+<!--About Me-->
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 - 🔭 I’m currently working on Problem Solving Skill
 - 🌱 I’m currently learning Python         
 - 👯 I’m looking to collaborate on Projects
@@ -28,15 +28,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pranaynimsatkar16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
-
 <br>
 <br>
 
 <!-- github stats and graph -->
-<h1 align="center">
-✨𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒✨
-</h1>
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <p align="center">
@@ -45,42 +41,112 @@ Here are some ideas to get you started:
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzpranayy&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
-<br>
-
 <!-- Languages -->
-<h1 align="center"> Languages And Tools</h1>
-<p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.svgrepo.com/show/217753/github.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="css3" width="42" height="42"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/354118/nodejs.svg" alt="css3" width="47" height="47"/> </a>
+
+<h2 align="center">🛠️ 𝐒𝐊𝐈𝐋𝐋𝐒 </h2>
+
+
+### 👉 Programming Languages
+<p align="left"> 
+&emsp;
+  <a>
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </a>
+&emsp;
+<a>
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </a>
+&emsp;
+  
 </p>
 
-<!-- <h4 align="center">Tech stack that I usually work with...!</h4> -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=>>>Tech+stack+that+I+usually+work+with...!&font=sans-serif&center=true&size=12">
-<!-- <a href="" target="_blank"> <img src="https://github.com/Ranjeet0302Singh/Ranjeet0302Singh/blob/main/img/header_.png?raw=true" alt="css3" width="100%" height="100%"/> </a> -->
+### 👉 Frameworks & Libraries
+<p align="left"> 
+&emsp;
+  <a> 
+     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
+  &emsp; 
+  <a> 
+   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>   
+  &emsp;
+  <a>
+    <img alt="ExpressJs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a> 
+   &emsp;
+  <a> 
+    <img alt="NextJs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  <a> 
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  </a>
+  &emsp;
+  <a> 
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  </a>
+  &emsp;
+  <a> 
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  </a>
+</p>
 
-<a href="" target="_blank"> <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/header_1-removebg.png?raw=true" alt="css3" width="100%" height="100%"/> </a>
-<br>
-<br>
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+  &emsp;
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  
+ </p>
 
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    &emsp; 
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    &emsp;
+ 
+    
+    
+</p>
+
+<br>
 
 <!-- Activity -->
-<h1 align="center">Activity</h1>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Activity</b>
 <br>
-<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<p">While I try to stay consistent, here is what I've put together so far.</p>
 <br>
 
 
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzpranayy&theme=monokai">
 </p>
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzpranayy&theme=monokai">&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzpranayy&theme=monokai">
 </p>
@@ -88,16 +154,15 @@ Here are some ideas to get you started:
 
 
 <!-- Connect with me -->
-<h1 align="center">Let's Connect</h1>
-<p align="center">Whether you are willing to collaborate or just checking my activity, Feel free to connect :)</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pranay-nimsatkar-a7b212231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar" height="28" width="40" /></a>
-<a href="https://discord.gg/Pranayyy#7057" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ayush-kumar" height="35" width="45" /></a>
-<a href="https://instagram.com/___pranayy___?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_a.k.t" height="28" width="38" /></a>
-<a href="mailto:pranaynimsatkar16@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="Ayush Kumar Tiwari" height="30" width="40" /></a>
-<a href="https://t.me/itzpranayyy" target="blank"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt=" " height="30" width="40" /></a>
-</p>
+## <b> Let's Connect..! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<a target="_blank" href="https://www.linkedin.com/in/pranayy018/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:pranaynimsatkar16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://t.me/itzpranayyy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://www.instagram.com/pranayy018/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+&emsp;
 
   
 <br>
