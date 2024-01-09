@@ -9,14 +9,19 @@
 
 <h1 align="center">Hi there, I'm Pranay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
+<br>
+
 
 <!-- **itzpranayy/itzpranayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
- --><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="380" height="208"/>
- 
+ -->
+ <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align = "right"  margin-top="4" width="400" height="280"/>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<br>
  
 - 🔭 I’m currently working on Problem Solving Skill
-- 🌱 I’m currently learning Python       <!-- <img src="https://github.com/Narendrakumarreddy-Kadiri/Narendrakumarreddy-Kadiri/blob/main/sourcefiles/images/logos-removebg-preview.png?raw=true" align="right"> -->   
+- 🌱 I’m currently learning Python         
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything, i am happy to help:)
@@ -24,23 +29,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You won't read it...!
 
-
-<h1 align="center">
-</h1>
-
-<h1 align="center">
- <!-- Typing Widget -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Web+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
- 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzpranayy&theme=dark&hide_border=true" width=700px>
-
- 
-</h1>
+<br>
+<br>
 
 <!-- github stats and graph -->
 <h1 align="center">
 ✨𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒✨
 </h1>
+
+<br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzpranayy&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true">
@@ -48,9 +45,10 @@ Here are some ideas to get you started:
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzpranayy&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 
+<br>
 
 <!-- Languages -->
-<h1 align="center">Languages & Tools</h1>
+<h1 align="center"> Languages And Tools</h1>
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
