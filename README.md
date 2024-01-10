@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 &emsp;
 <a target="_blank" href="mailto:pranaynimsatkar16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://t.me/itzpranayyy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+<a target="_blank" href="https://t.me/pranayy018"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://www.instagram.com/pranayy018/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
