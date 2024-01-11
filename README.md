@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzpranayy&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranayy018&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)">
 <!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzpranayy&langs_count=15&hide_border=true&theme=dark#gh-dark-mode-only)" />
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayy018&langs_count=15&hide_border=true&theme=dark#gh-dark-mode-only)" />
 </p>
 
 <!-- Languages -->
