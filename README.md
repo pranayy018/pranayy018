@@ -150,8 +150,8 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranayy018&theme=monokai">
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzpranayy&theme=monokai">&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzpranayy&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranayy018&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranayy018&theme=monokai">
 </p>
 
 
@@ -172,7 +172,7 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/itzpranayy/itzpranayy/blob/main/github-contribution-grid-snake.svg">
+<img alt="Snake GIF" src="https://github.com/pranayy018/pranayy018/blob/main/github-contribution-grid-snake.gif">
 </p>
 <br>
 
