@@ -147,7 +147,7 @@ Here are some ideas to get you started:
 
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzpranayy&theme=monokai">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranayy018&theme=monokai">
 </p>
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzpranayy&theme=monokai">&nbsp;
