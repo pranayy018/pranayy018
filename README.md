@@ -169,11 +169,10 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.instagram.com/pranayy018/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 
-  
 <br>
 <!-- Github contribution grid snake -->
-<h1 align="center">Contributions</h1>
-![Snake animation](https://github.com/pranayy018/pranayy018/blob/output/github-contribution-grid-snake.svg)
+<!-- <h1 align="center">Contributions</h1>  -->
+ <!--  ![Snake animation](https://github.com/pranayy018/pranayy018/blob/output/github-contribution-grid-snake.svg) -->
 <br>
 
 
