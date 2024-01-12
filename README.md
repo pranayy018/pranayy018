@@ -172,9 +172,11 @@ Here are some ideas to get you started:
 <!-- Github contribution grid snake -->
 <h1 align="center">Contributions</h1>
 <p align="center">
-<img alt="Snake GIF" src="https://github.com/pranayy018/pranayy018/blob/main/snake.svg">
+<img alt="Snake GIF" src="https://github.com/pranayy018/pranayy018/blob/output/github-contribution-grid-snake.svg">
 </p>
 <br>
+
+
 
 
 
