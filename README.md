@@ -35,10 +35,12 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranayy018&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)">
-<!--   most used langs table -->
-    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayy018&langs_count=15&hide_border=true&theme=dark#gh-dark-mode-only)" />
+
+ <p align="center">
+  <a href="https://github.com/pranayy018">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranayy018&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayy018&layout=compact&langs_count=16&hide_border=true&theme=dark#gh-dark-mode-only"/>
+  
 </p>
 
 <!-- Languages -->
